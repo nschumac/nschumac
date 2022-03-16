@@ -3,7 +3,7 @@
 - 👨🏼‍🎓 student at 42 in Heilbronn
 - 📍 living in Heilbronn, Germany
 
-## Fourty-Two is the answer
+## About Forty-Two
 - 🌌 the Name of 42 is from the book hitchhikers through the galaxy
 - 🌍 42 has schools all over the world.
 - 🧑‍🏫 there are no teachers. students teach themselves and learn from each other
