@@ -12,14 +12,14 @@
 
 ## Interests
 - Currently working on improving my reverse engineering skills, by "hacking" certain games like MW2 and solving Crackmes
-- highly interested in the AI and will create my own chess Engine soon... stay tuned xd
+- interested in the AI and would like to create my own chess engine 
 - I like to participate in Coding Competitions like Google Kickstart and Leetcode
 - Non-Coding wise im an avid Basketball player and swimmer :D
 
 ## Tools and Languages
 - advanced c/c++ programming-skills
 - intermediate java and x86/x64 assembly skills
-- basic skills in bash, make, python and javascript
+- basic skills in bash, make, python, javascript and typescript
 - basic IDA Pro, Windbg, Hopper and cheat engine skills
 
 [42WEBSITE]: https://www.42heilbronn.de/en/
